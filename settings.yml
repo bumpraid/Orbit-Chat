@@ -1,0 +1,9 @@
+orbit: 
+  version: "1.0.0-beta"
+  database: 
+    url: ""
+    name: ""
+  website: 
+    port: 8080
+    test: true
+      
