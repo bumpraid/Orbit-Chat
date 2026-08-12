@@ -4,6 +4,6 @@
   <ul>
     <div>Bumpraid - Golang</div>
     <div>0xviny - Kotlin</div>
-    <a href="https://github.com/0xviny/Orbit-Kotlin">Orbit Bot <div style="color:brown">(Descontinuado)</div></a>
+    <a href="https://github.com/0xviny/Orbit-Kotlin">Orbit Bot</a> <div style="color:brown">(Descontinuado)</div>
   </ul>
 </footer>
