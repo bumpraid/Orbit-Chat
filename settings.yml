@@ -1,10 +1,12 @@
-orbit: 
-  version: "1.0.0-beta"
-  database: 
-    url: ""
-    name: ""
-  website: 
-    port: 8080
-    test: true
+orbitWeb:
+  port: 8080
   api: 
-    port: 8080
+    base: "domain.sub"
+    version: "v1"
+    routes: null
+
+orbitApi: 
+  port: 808
+  
+orbitDB: 
+  url: ""
