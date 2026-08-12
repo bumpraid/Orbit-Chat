@@ -1,0 +1,9 @@
+### VS Code ###
+.vscode/
+
+### Project ###
+.env
+.github/
+
+### Legacy ###
+.legacy/
