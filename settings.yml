@@ -1,12 +1,4 @@
-orbitWeb:
-  port: 8080
-  api: 
-    base: "domain.sub"
-    version: "v1"
-    routes: null
-
-orbitApi: 
-  port: 808
-  
-orbitDB: 
-  url: ""
+orbit:
+  command: "make start"
+  version: "1.0.0-developing"
+  _local: true
