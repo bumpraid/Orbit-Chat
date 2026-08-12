@@ -1,0 +1,14 @@
+
+
+GET https://api.example.com/users/1
+
+###
+
+POST https://api.example.com/users
+Content-Type: application/json
+
+{"name": "New User"}
+
+###
+
+DELETE https://api.example.com/users/2
