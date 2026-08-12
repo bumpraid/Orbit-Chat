@@ -1,7 +1,4 @@
-.PHONY: start lint
+.PHONY: start
 
 start:
 	go run main.go
-
-lint:
-	golangci-lint run
