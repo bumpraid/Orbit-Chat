@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func init() string {
-	fmt.Print
+func init() {
+	fmt.Println("tedst")
 }
